@@ -1,108 +1,94 @@
-# 🚆 RailYatra — Modern IRCTC Redesign
+# 🚆 Railyatra  
+### ✨ Travel Smarter. Journey Beautifully.
 
-A futuristic, user-friendly redesign of the IRCTC platform focused on improving usability, visual appeal, and overall booking experience for modern travelers.
-
-🌐 **Live Demo:** https://railyatrabyspg.vercel.app
-
----
-
-## ✨ Overview
-
-RailYatra reimagines the traditional railway booking experience with a clean UI, smooth interactions, and immersive visuals like animated/video backgrounds. Built for a hackathon, this project focuses on **UX clarity, responsiveness, and modern design principles**.
-
----
-
-## 🚀 Features
-
-- 🔍 **Smart Station Search**
-  - Autocomplete with station name, code, and city
-  - Smooth selection UX (no input bugs)
-
-- 🚆 **Train Search System**
-  - Search trains between stations
-  - Class-based filtering
-  - Dynamic result rendering
-
-- 🎬 **Cinematic Hero Section**
-  - Video background with smooth looping
-  - Dark overlay for readability
-
-- 🎨 **Modern UI/UX**
-  - Glassmorphism design
-  - Smooth animations & transitions
-  - Responsive layout
-
-- 🔄 **Swap Stations**
-  - One-click swap between "From" and "To"
+<p align="center">
+  <a href="https://railyatrabyspg.vercel.app">
+    <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel" />
+  </a>
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Built%20With-React-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Deployment-Vercel-black?style=for-the-badge&logo=vercel" />
+  <img src="https://img.shields.io/badge/Hackathon-Winner🏆-gold?style=for-the-badge" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🏆 Achievement  
 
-- **HTML5**
-- **CSS3 (Glassmorphism + Animations)**
-- **Vanilla JavaScript (No frameworks)**
-- **Vercel (Deployment)**
+🎉 **Winner – Hackathon organized by IIT Jammu**  
 
----
+Railyatra stood out for its **innovative design, smooth user experience, and practical approach to modern railway travel solutions.**
 
 ---
 
-## ⚙️ How It Works
+## 🌐 Live Website  
 
-1. User selects **From & To stations** using autocomplete
-2. Clicks **Search Trains**
-3. JavaScript processes input and filters train data
-4. Results are dynamically rendered on UI
+🔗 https://railyatrabyspg.vercel.app  
 
 ---
 
-## 🧠 Key Highlights
+## 📌 Overview  
 
-- Fixed critical UX bugs (station selection & search issues)
-- Seamless video background integration
-- Optimized event handling (`mousedown` vs `click`)
-- Clean separation of UI and logic
+**Railyatra** is a modern railway travel platform designed to deliver a **smooth, smart, and visually appealing experience**.  
 
----
-
-## 📸 Screenshots
-
-> Add screenshots here if needed (recommended for GitHub)
+It focuses on:
+- Clean and intuitive UI  
+- Fast and responsive performance  
+- Seamless navigation  
+- User-first experience  
 
 ---
 
-## 👨‍💻 Contributors
+## 🚀 Features  
 
-- **Aryan Yadav**  
-  ABES Engineering College  
+### 🎯 Smart Travel Planning  
+- Effortless navigation across pages  
+- Structured and intuitive user journey  
 
-- **Om Tiwari**  
-  ABES Engineering College  
+### 🎨 Premium UI/UX  
+- Modern, minimal design  
+- Smooth animations and transitions  
 
----
+### ⚡ High Performance  
+- Optimized assets for fast loading  
+- Deployed on Vercel for blazing speed  
 
-## 🏆 Hackathon Project
+### 📱 Fully Responsive  
+- Works across all devices  
+- Mobile-first design approach  
 
-This project was built as part of a **UI/UX Redesign Hackathon**, focusing on improving the IRCTC platform experience.
-
----
-
-## 📌 Future Improvements
-
-- Real API integration for live train data
-- Seat availability & booking flow
-- User authentication system
-- Payment gateway integration
-
----
-
-## ⭐ Show Your Support
-
-If you like this project, give it a ⭐ on GitHub!
+### 🔐 User-Centric Experience  
+- Simple workflows  
+- Interactive UI elements  
 
 ---
 
-## 📄 License
+## 🛠️ Tech Stack  
 
-This project is for educational and hackathon purposes only.
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Deployment:** Vercel  
+- **Design Approach:** Modern UI/UX principles  
+
+---
+
+## 👨‍💻 Contributors  
+
+### 👤 Aryan Yadav  
+🎓 ABES Engineering College  
+
+### 👤 Om Tiwari  
+🎓 ABES Engineering College  
+---
+
+## 🌟 Why Railyatra Stands Out  
+
+✔ Clean and distraction-free design  
+✔ Smooth navigation experience  
+✔ Hackathon-winning innovation  
+✔ Real-world usability focus  
+
+---
+
+## 📄 License  
+
+This project is created for **educational, innovation, and hackathon purposes**.
